@@ -21,6 +21,7 @@
 
     Preprocess.py
     Model.py
+    (官方資料）
     acct_transaction.csv
     acct_alert.csv
     acct_predict.csv
